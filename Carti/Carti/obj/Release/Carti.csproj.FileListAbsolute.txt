@@ -1,0 +1,8 @@
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\Carti\Carti\bin\Release\Carti.exe.config
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\Carti\Carti\bin\Release\Carti.exe
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\Carti\Carti\bin\Release\Carti.pdb
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\Carti\Carti\obj\Release\Carti.Form1.resources
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\Carti\Carti\obj\Release\Carti.Properties.Resources.resources
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\Carti\Carti\obj\Release\Carti.csproj.GenerateResource.Cache
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\Carti\Carti\obj\Release\Carti.exe
+C:\Users\Andrei\Documents\Visual Studio 2013\Projects\Carti\Carti\obj\Release\Carti.pdb
