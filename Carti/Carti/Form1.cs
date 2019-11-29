@@ -8,6 +8,8 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
+//check if change is made
+
 namespace Carti
 {
 
@@ -277,10 +279,6 @@ namespace Carti
                     else
                         CurrentActivePictures[i].Image = (Bitmap)Properties.Resources.ResourceManager.GetObject(currentCardBackName);
         }
-
-        private void cardbackColorToolStripMenuItem1_Click(object sender, EventArgs e)
-        {
-
-        }
+        
     }
 }

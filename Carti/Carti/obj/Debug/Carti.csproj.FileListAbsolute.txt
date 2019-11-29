@@ -7,3 +7,12 @@ C:\Users\Andrei\Documents\Visual Studio 2013\Projects\Carti\Carti\obj\Debug\Cart
 C:\Users\Andrei\Documents\Visual Studio 2013\Projects\Carti\Carti\obj\Debug\Carti.exe
 C:\Users\Andrei\Documents\Visual Studio 2013\Projects\Carti\Carti\obj\Debug\Carti.pdb
 C:\Users\Andrei\Documents\Visual Studio 2013\Projects\Carti\Carti\obj\Debug\Carti.csprojResolveAssemblyReference.cache
+C:\Users\Andrei\Documents\GitHub\Card-Matching-Game-C-SHARP-\Carti\Carti\bin\Debug\Carti.exe.config
+C:\Users\Andrei\Documents\GitHub\Card-Matching-Game-C-SHARP-\Carti\Carti\bin\Debug\Carti.exe
+C:\Users\Andrei\Documents\GitHub\Card-Matching-Game-C-SHARP-\Carti\Carti\bin\Debug\Carti.pdb
+C:\Users\Andrei\Documents\GitHub\Card-Matching-Game-C-SHARP-\Carti\Carti\obj\Debug\Carti.csprojAssemblyReference.cache
+C:\Users\Andrei\Documents\GitHub\Card-Matching-Game-C-SHARP-\Carti\Carti\obj\Debug\Carti.Form1.resources
+C:\Users\Andrei\Documents\GitHub\Card-Matching-Game-C-SHARP-\Carti\Carti\obj\Debug\Carti.Properties.Resources.resources
+C:\Users\Andrei\Documents\GitHub\Card-Matching-Game-C-SHARP-\Carti\Carti\obj\Debug\Carti.csproj.GenerateResource.cache
+C:\Users\Andrei\Documents\GitHub\Card-Matching-Game-C-SHARP-\Carti\Carti\obj\Debug\Carti.exe
+C:\Users\Andrei\Documents\GitHub\Card-Matching-Game-C-SHARP-\Carti\Carti\obj\Debug\Carti.pdb
